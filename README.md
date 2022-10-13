@@ -1,2 +1,2 @@
 # Airbnb-classification
-Classification of Airbnb ads with some Machine Learning models
+Classification of Airbnb offers with some Machine Learning models
